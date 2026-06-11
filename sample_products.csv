@@ -1,0 +1,6 @@
+name,sku,barcode,description,price,costPrice,stock,minStock,categoryId,createdBy
+Wireless Headphones,SKU-WH-001,1234567890,Premium noise-cancelling headphones,149.99,80.00,50,5,<CATEGORY_OBJECT_ID>,<USER_OBJECT_ID>
+USB-C Cable 1m,SKU-USB-001,9876543210,Fast charging USB-C cable,12.99,5.00,200,20,<CATEGORY_OBJECT_ID>,<USER_OBJECT_ID>
+Mechanical Keyboard,SKU-KB-001,1122334455,RGB mechanical gaming keyboard,89.99,45.00,30,3,<CATEGORY_OBJECT_ID>,<USER_OBJECT_ID>
+Coffee Mug 350ml,SKU-MUG-001,5566778899,Ceramic coffee mug with lid,8.99,3.00,150,15,<CATEGORY_OBJECT_ID>,<USER_OBJECT_ID>
+Notebook A5,SKU-NB-001,9988776655,Hardcover ruled notebook,6.49,2.50,300,30,<CATEGORY_OBJECT_ID>,<USER_OBJECT_ID>
